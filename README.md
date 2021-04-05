@@ -2,7 +2,9 @@
 <img alt="Appium Reviews 2021: Details, Pricing, &amp; Features | G2" class="n3VNCb" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_4db5713c991f58ae5a2241277f06cd2e/appium.png" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" style="width: 38.0952px; height: 20px; margin: 14.3px 0px;">
 </h1>
 
+<h1 align="justify">
 Este projeto tem como base definir um padrão para a automação mobile, sofrera mudanças conforme a necessidade. Aqui esta listado estruturas de projetos, de pastas, configuração de ambiente etc. Fique a vontade para vizualizar alterar ou fazer melhorias na configuração do path, estarei disponivel e abertos a melhoria, deixo também uma grande indicação pessoal sobre automação mobile, a qual teve grande importância na criação desse conteúdo.
+</h1>
 
 ### Projeto base para automação mobile, com PWA e Frameworks para padronização.
 
