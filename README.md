@@ -1,4 +1,4 @@
-<img src="https://img2.gratispng.com/20180716/jxc/kisspng-appium-test-automation-software-testing-selenium-ios-logo-5b4d4dbfc649e9.7415697115317928318122.jpg" width="900" height="600">
+<img src="https://img1.gratispng.com/20180704/how/kisspng-appium-test-automation-software-testing-selenium-calabash-5b3d2f3410aa17.8035340015307364360683.jpg" width="260" height="260">
 
 Projeto base para automação mobile, com PWA e Frameworks para padronização.
 
