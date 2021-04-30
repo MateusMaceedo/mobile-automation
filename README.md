@@ -24,5 +24,8 @@ Este projeto tem como base definir um padrão para a automação mobile, sofrera
 - [Tutorial 9: Operações aritméticas com a Calculadora nativa do Android - Fase 2](https://github.com/clarabez/appium/blob/master/README.md#tutorial-9-opera%C3%A7%C3%B5es-aritm%C3%A9ticas-com-a-calculadora-nativa-do-android---fase-2)
 - [Tutorial 10: Operações aritméticas com a Calculadora nativa do Android - Fase 3: organizando o código com padrões de projeto e realizando fluxo de teste funcional](https://github.com/clarabez/appium/blob/master/README.md#tutorial-10-opera%C3%A7%C3%B5es-aritm%C3%A9ticas-com-a-calculadora-nativa-do-android---fase-3-organizando-o-c%C3%B3digo-com-padr%C3%B5es-de-projeto-e-realizando-fluxo-de-teste-funcional)
 
-
-
+## 👨🏻‍🚀 Sobre mim
+<a href="https://www.linkedin.com/in/mateus-macedo-937a32163/">
+ <img style="border-radius:50%" width="100px; "src="https://avatars.githubusercontent.com/u/63172367?s=460&u=11fd26ea8a7f5663d7707d7ef254e4f8bfca1b05&v=4"/>
+ <p>Mateus Macedo</p>
+</a>
